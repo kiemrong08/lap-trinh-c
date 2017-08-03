@@ -8,4 +8,4 @@ struct Taikhoan
 	char diachi[1000];
 	int tuoi;
 	int gioitinh; // Boolean : 1 = nam, 0 = nu
-};
+}; 
